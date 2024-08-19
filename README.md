@@ -1,2 +1,5 @@
-# piawk_polars
-Scripts to handle piawk outputs using polars in python
+# Population genomics
+
+A collection of very efficient scripts written in python using Polars.
+
+
