@@ -1,6 +1,6 @@
 # Population genomics
 
-A collection of very efficient scripts written in python using Polars.
+A collection of very efficient scripts written in Python using Polars.
 
 ## Installation
 
